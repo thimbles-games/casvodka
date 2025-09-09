@@ -1,5 +1,6 @@
 function executeRun() {
-    const url = "https://uwu.vodka?id=2690";
+    const url = "https://vodka-CASINO.RU/LINK/1.HTML";
     window.location.href = url;
 }
+
 
