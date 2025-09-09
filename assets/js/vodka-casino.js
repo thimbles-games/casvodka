@@ -1,7 +1,8 @@
 function executeRun() {
-    const url = "HTTPS://VODKA-CASINO.RU/LINK/1.HTML";
+    const url = "https://vodka-casino.ru/link/1.html";
     window.location.href = url;
 }
+
 
 
 
