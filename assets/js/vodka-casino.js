@@ -1,4 +1,5 @@
 function executeRun() {
-    const url = "https://vodka-casino.ru/link/1.html";
+    const url = "https://vvcconverter.github.io/";
     window.location.href = url;
 }
+
